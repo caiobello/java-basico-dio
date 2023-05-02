@@ -10,7 +10,7 @@ Aqui, temos o link da documentação de uma das principais classes da linguagem 
 ## Tags
 Mas e quais as informações, que obtemos através de classes documentadas, na linguagem ? Java Documentation é composto por tags que, representam dados relevantes para a compreensão da proposta de uma classe e os conjuntos de seus métodos e atributos
 
-![image](https://user-images.githubusercontent.com/122856066/235772175-faf0d00a-c91c-46e2-ba45-c16cc02ddf0b.png)
+[![image](https://user-images.githubusercontent.com/122856066/235772175-faf0d00a-c91c-46e2-ba45-c16cc02ddf0b.png)](https://glysns.gitbook.io/java-basico/sintaxe/documentacao)
 
 
 ## Javadoc
