@@ -23,3 +23,7 @@ São funções que definem o comportamento da classe. Eles podem ser chamados a 
 
 #### Blocos:
 São seções de código que são executadas quando um objeto é criado ou quando um método é chamado.
+
+#
+
+[![image](https://user-images.githubusercontent.com/122856066/235774778-c707ba4c-caca-4b14-84d5-e69c461b32c2.png)](https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes)
