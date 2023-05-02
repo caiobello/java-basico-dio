@@ -1,14 +1,14 @@
-One Line:
+//One Line:
 // Olá, eu sou um comentário em uma única linha
 
-Mult Line:
+//Mult Line:
 /* Olá,
  * Eu sou um comentario
  * que posso ser mais detalhadod
  * quando necessário
  */
 
-Documentation:
+//Documentation:
  /** 
  * Estas duas estrelinhas acima
  * é para identificar que você
