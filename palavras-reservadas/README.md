@@ -1,6 +1,4 @@
 # As palavras reservadas da linguagem Java
-
-
 ## Categoria de controle de pacotes:
 * import: usada para importar classes, interfaces e pacotes externos;
 * package: usada para declarar o nome do pacote de uma classe ou interface.
@@ -73,3 +71,6 @@
 * @Override: indica que um método substitui um método de uma superclasse ou interface.
 * @Deprecated: indica que um elemento de código está obsoleto e não deve ser usado.
 * @SuppressWarnings: suprime um aviso de compilação para um elemento de código específico.
+
+[![image](https://user-images.githubusercontent.com/122856066/235774576-fc204c90-6ea9-492f-9b5a-353f22183230.png)](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)<br>
+[![image](https://user-images.githubusercontent.com/122856066/235774468-a5f0ffdf-e4bd-4525-b90b-314d376e1d71.png)](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
