@@ -1,7 +1,3 @@
-As 52 palavras reservadas da linguagem Java podem ser separadas em várias categorias
-
-As 52 palavras reservadas da linguagem Java podem ser separadas em várias categorias, que são as seguintes:
-
 Categorias de declaração:
 class: define uma classe em Java, que é uma estrutura de dados que pode conter atributos e métodos.
 interface: define uma interface em Java, que é um conjunto de métodos abstratos e constantes que podem ser implementados por classes diferentes.
@@ -34,3 +30,4 @@ native: especifica que um método é implementado em código nativo em vez de c�
 strictfp: especifica que o cálculo de um método deve seguir as regras de ponto flutuante definidas pela IEEE 754.
 transient: especifica que uma variável não deve ser serializada.
 volatile: especifica que uma variável pode ser modificada por várias threads simultaneamente.
+*/
