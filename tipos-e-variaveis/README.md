@@ -1,4 +1,4 @@
- * Tipos primitivos:
+### Tipos primitivos:
  * boolean: um tipo de dados que representa um valor verdadeiro ou falso.
  * byte: um tipo de dados de 8 bits com sinal.
  * short: um tipo de dados de 16 bits com sinal.
@@ -8,13 +8,13 @@
  * double: um tipo de dados de 64 bits em ponto flutuante.
  * char: um tipo de dados de 16 bits que representa um único caractere Unicode.<br>
 
- * Tipos de referência:
+### Tipos de referência:
  * classes: definidas pelo programador e podem ter qualquer nome.
  * interfaces: definidas pelo programador e contêm um conjunto de métodos que
  * podem ser implementados por outras classes.
  * arrays: objetos que armazenam uma coleção de elementos do mesmo tipo.<br>
 
- * Além disso, Java tem dois tipos especiais: 
+### Além disso, Java tem dois tipos especiais: 
  * void: um tipo especial que indica que um método não retorna nenhum valor.
  * null: um valor especial que indica que uma variável não aponta para nenhum
  * objeto.
