@@ -2,9 +2,9 @@
 
 
 ## Categorias de declaração:
-class: define uma classe em Java, que é uma estrutura de dados que pode conter atributos e métodos.
-interface: define uma interface em Java, que é um conjunto de métodos abstratos e constantes que podem ser implementados por classes diferentes.
-enum: define um tipo de dados enumeração em Java, que é um conjunto de constantes nomeadas.
+<br>class: define uma classe em Java, que é uma estrutura de dados que pode conter atributos e métodos.
+<br>interface: define uma interface em Java, que é um conjunto de métodos abstratos e constantes que podem ser <br>implementados por classes diferentes.
+<br>enum: define um tipo de dados enumeração em Java, que é um conjunto de constantes nomeadas.
 ## Categorias de controle de fluxo:
 if: define uma condição que será executada se for verdadeira.
 else: define uma condição alternativa que será executada se a primeira condição for falsa.
