@@ -7,6 +7,9 @@
  * float: um tipo de dados de 32 bits em ponto flutuante.
  * double: um tipo de dados de 64 bits em ponto flutuante.
  * char: um tipo de dados de 16 bits que representa um único caractere Unicode.<br>
+ 
+[![image](https://user-images.githubusercontent.com/122856066/235773333-094a23b7-f747-4f17-b0e5-6748690b2d46.png)](https://glysns.gitbook.io/java-basico/sintaxe/variaveis)
+
 
 ### Tipos de referência:
  * classes: definidas pelo programador e podem ter qualquer nome.
