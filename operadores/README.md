@@ -11,8 +11,8 @@
  * Negativo (-): é usado para negar um valor numérico.
  * Complemento Bit a Bit (~): é usado para inverter os bits de um valor inteiro.
  * Negação lógica (!): é usado para negar um valor booleano.
- * Cast: é usado para converter um valor de um tipo de dado para outro tipo de<br>
- * dado.
+ * Cast: é usado para converter um valor de um tipo de dado para outro tipo de
+ * dado.<br>
 
 ### Operadores Relacionais:
  * Igual (==): é usado para verificar se dois valores são iguais.

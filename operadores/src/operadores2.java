@@ -2,7 +2,7 @@ import java.util.Date;
 
 import org.omg.Messaging.SyncScopeHelper;
 
-public class operadores2 {
+public class Operadores2 {
 //Atribuindo igualdade
 
     int idade = 30;
@@ -33,6 +33,7 @@ public class operadores2 {
         
         concatenacao = (1 + 1 + 1) + "1";
         System.out.println(concatenacao);
+
     
     }
 }
