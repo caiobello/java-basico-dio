@@ -1,3 +1,6 @@
+# Operadores:
+[![image](https://user-images.githubusercontent.com/122856066/235773660-36b83390-9c02-4112-a781-d73eac8f3f23.png)](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
+
 ### Operadores Aritméticos:
  * Adição (+): é usado para adicionar dois valores. (Quando utilizado em texto realizará a concatenação dos textos)
  * Subtração (-): é usado para subtrair dois valores.
