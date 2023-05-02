@@ -7,13 +7,13 @@
  * float: um tipo de dados de 32 bits em ponto flutuante.
  * double: um tipo de dados de 64 bits em ponto flutuante.
  * char: um tipo de dados de 16 bits que representa um único caractere Unicode.
-
+<br>
  * Tipos de referência:
  * classes: definidas pelo programador e podem ter qualquer nome.
  * interfaces: definidas pelo programador e contêm um conjunto de métodos que
  * podem ser implementados por outras classes.
  * arrays: objetos que armazenam uma coleção de elementos do mesmo tipo.
-
+<br>
  * Além disso, Java tem dois tipos especiais: 
  * void: um tipo especial que indica que um método não retorna nenhum valor.
  * null: um valor especial que indica que uma variável não aponta para nenhum
