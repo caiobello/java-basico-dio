@@ -33,3 +33,32 @@
 * strictfp: especifica que o cálculo de um método deve seguir as regras de ponto flutuante definidas pela IEEE 754.
 * transient: especifica que uma variável não deve ser serializada.
 * volatile: especifica que uma variável pode ser modificada por várias threads simultaneamente.
+
+
+## Categorias de módulos:
+* module: define um módulo em Java, que é uma unidade de código reutilizável que pode ser usado em outros projetos.
+* requires: especifica que um módulo depende de outro módulo.
+* exports: especifica que um pacote em um módulo está disponível para outros módulos.
+* opens: especifica que um pacote em um módulo está aberto para reflexão em tempo de execução.
+## Categorias de tipo de dado:
+* boolean: especifica um tipo de dados booleano que pode ter apenas dois valores: true ou false.
+* byte: especifica um tipo de dados inteiro de 8 bits.
+* short: especifica um tipo de dados inteiro de 16 bits.
+* int: especifica um tipo de dados inteiro de 32 bits.
+* long: especifica um tipo de dados inteiro de 64 bits.
+* float: especifica um tipo de dados de ponto flutuante de precisão simples.
+* double: especifica um tipo de dados de ponto flutuante de precisão dupla.
+* char: especifica um tipo de dados de caractere Unicode de 16 bits.
+## Categorias de valores literais:
+* null: especifica um valor nulo que indica que uma referência não aponta para nenhum objeto.
+* true: especifica um valor booleano verdadeiro.
+* false: especifica um valor booleano falso.
+## Categorias de reflexão:
+* instanceof: verifica se um objeto é uma instância de uma determinada classe ou interface.
+* new: cria uma nova instância de uma classe.
+* getClass(): retorna um objeto Class que representa a classe de um objeto em tempo de execução.
+## Categorias de anotações:
+* @interface: define uma anotação em Java, que é uma forma de associar metadados a um elemento de código.
+* @Override: indica que um método substitui um método de uma superclasse ou interface.
+* @Deprecated: indica que um elemento de código está obsoleto e não deve ser usado.
+* @SuppressWarnings: suprime um aviso de compilação para um elemento de código específico.
