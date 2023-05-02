@@ -1,18 +1,17 @@
-## Getting Started
+### Anatomia de Classes em Java.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Modificadores de acesso: São palavras-chave como public, private, protected que definem o nível de acesso à classe e seus membros por outras classes.
 
-## Folder Structure
+Nome da classe: É o nome da classe em si e deve começar com uma letra maiúscula.
 
-The workspace contains two folders by default, where:
+Extensão: A classe pode estender outra classe usando a palavra-chave extends. Uma classe que estende outra classe herda seus atributos e métodos.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Implementação: A classe pode implementar uma ou mais interfaces usando a palavra-chave implements. As interfaces definem um conjunto de métodos que a classe deve implementar.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Atributos: São variáveis que armazenam o estado da classe e são definidas dentro da classe.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Construtor: É um método especial que é chamado quando um objeto da classe é criado. Ele é usado para inicializar os atributos da classe.
 
-## Dependency Management
+Métodos: São funções que definem o comportamento da classe. Eles podem ser chamados a partir de outros objetos ou do próprio objeto da classe.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Blocos: São seções de código que são executadas quando um objeto é criado ou quando um método é chamado.
