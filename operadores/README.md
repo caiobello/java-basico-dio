@@ -1,4 +1,3 @@
-/**
  * Operadores Aritméticos:
  * Adição (+): é usado para adicionar dois valores.
  * Subtração (-): é usado para subtrair dois valores.
@@ -34,4 +33,3 @@
  * Operador Ternário:
  * O operador ternário em Java é representado pelo símbolo "?:" e é usado para
  * criar expressões condicionais simples e concisas.
- */

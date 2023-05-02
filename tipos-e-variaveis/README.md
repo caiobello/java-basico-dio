@@ -1,4 +1,3 @@
-/**
  * Tipos primitivos:
  * boolean: um tipo de dados que representa um valor verdadeiro ou falso.
  * byte: um tipo de dados de 8 bits com sinal.
@@ -19,4 +18,3 @@
  * void: um tipo especial que indica que um método não retorna nenhum valor.
  * null: um valor especial que indica que uma variável não aponta para nenhum
  * objeto.
- */
