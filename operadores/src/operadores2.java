@@ -33,10 +33,6 @@ public class operadores2 {
         
         concatenacao = (1 + 1 + 1) + "1";
         System.out.println(concatenacao);
-
-
-
-
     
     }
 }
