@@ -33,8 +33,6 @@
 * strictfp: especifica que o cálculo de um método deve seguir as regras de ponto flutuante definidas pela IEEE 754.
 * transient: especifica que uma variável não deve ser serializada.
 * volatile: especifica que uma variável pode ser modificada por várias threads simultaneamente.
-
-
 ## Categorias de módulos:
 * module: define um módulo em Java, que é uma unidade de código reutilizável que pode ser usado em outros projetos.
 * requires: especifica que um módulo depende de outro módulo.
