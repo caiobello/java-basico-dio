@@ -1,5 +1,5 @@
 ### Operadores Aritméticos:
- * Adição (+): é usado para adicionar dois valores.
+ * Adição (+): é usado para adicionar dois valores. (Quando utilizado em texto realizará a concatenação dos textos)
  * Subtração (-): é usado para subtrair dois valores.
  * Multiplicação (*): é usado para multiplicar dois valores.
  * Divisão (/): é usado para dividir um valor pelo outro.
