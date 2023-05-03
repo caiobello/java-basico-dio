@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AboutMe2",
+            "request": "launch",
+            "mainClass": "AboutMe2",
+            "projectName": "terminal-e-argumentos_a9520479"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
