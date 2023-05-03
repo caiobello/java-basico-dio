@@ -21,15 +21,15 @@ Quando executamos uma classe, que contenha o método main, o mesmo permite que p
 Exemplo: <br>
 
         {
-            "type": "java",<br>
-            "name": "AboutMe",<br>
-            "request": "launch",<br>
-            "mainClass": "AboutMe",<br>
-            "projectName": "terminal-e-argumentos_a9520479",<br>
-            "args": [<br>
-                "CAIO",<br>
-                "BELLO",<br>
-                "30",<br>
-                "1.72"<br>
-            ]<br>
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "terminal-e-argumentos_a9520479",
+            "args": [
+                "CAIO",
+                "BELLO",
+                "30",
+                "1.72"
+            ]
         },
