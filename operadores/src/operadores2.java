@@ -1,7 +1,5 @@
 import java.util.Date;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 public class Operadores2 {
     // Atribuindo igualdade
 
