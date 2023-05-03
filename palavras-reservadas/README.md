@@ -1,4 +1,7 @@
 # As palavras reservadas da linguagem Java
+
+[![image](https://user-images.githubusercontent.com/122856066/235832944-c58595aa-b33e-4604-8b94-abaf96a4b891.png)](https://glysns.gitbook.io/java-basico/sintaxe/palavras-reservadas)
+
 ## Categoria de controle de pacotes:
 * import: usada para importar classes, interfaces e pacotes externos;
 * package: usada para declarar o nome do pacote de uma classe ou interface.
