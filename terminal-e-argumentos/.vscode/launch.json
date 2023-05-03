@@ -1,0 +1,34 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "terminal-e-argumentos_a9520479",
+            "args": [
+                "CAIO",
+                "BELLO",
+                "30",
+                "1.72"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "TerminalEArgumentos",
+            "request": "launch",
+            "mainClass": "TerminalEArgumentos",
+            "projectName": "terminal-e-argumentos_a9520479"
+        }
+    ]
+}
