@@ -16,6 +16,9 @@
  * Negação lógica (!): é usado para negar um valor booleano.
  * Cast: é usado para converter um valor de um tipo de dado para outro tipo de
  * dado.<br>
+ 
+ ![image](https://user-images.githubusercontent.com/122856066/236618525-e048795e-5df3-4cc5-968b-33c1b923645a.png)
+
 
 ### Operadores Relacionais:
  * Igual (==): é usado para verificar se dois valores são iguais.
