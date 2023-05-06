@@ -41,6 +41,6 @@
 
 ### Operador Ternário:
  * O operador ternário em Java é representado pelo símbolo "?:" e é usado para
- * criar expressões condicionais simples e concisas.
+ * criar expressões condicionais simples e concisas.<br>
  ![image](https://user-images.githubusercontent.com/122856066/236618989-d62a30e2-9fc5-499d-9b5b-99c1b7c48608.png)
 
