@@ -1,5 +1,4 @@
 # Operadores:
-[![image](https://user-images.githubusercontent.com/122856066/235773660-36b83390-9c02-4112-a781-d73eac8f3f23.png)](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
 
 ### Operadores Aritméticos:
  * Adição (+): é usado para adicionar dois valores. (Quando utilizado em texto realizará a concatenação dos textos)
@@ -7,6 +6,9 @@
  * Multiplicação (*): é usado para multiplicar dois valores.
  * Divisão (/): é usado para dividir um valor pelo outro.
  * Módulo (%): é usado para obter o resto da divisão entre dois valores.<br>
+
+![image](https://user-images.githubusercontent.com/122856066/236618857-af0ea879-f9e8-4530-8892-60ab0521b7bc.png)
+
 
 ### Operadores Unários:
  * Incremento (++): é usado para aumentar o valor de uma variável em 1.
@@ -29,6 +31,7 @@
  * Menor que (<): é usado para verificar se um valor é menor do que outro valor.
  * Menor ou igual (<=): é usado para verificar se um valor é menor ou igual a
  * outro valor.<br>
+[![image](https://user-images.githubusercontent.com/122856066/235773660-36b83390-9c02-4112-a781-d73eac8f3f23.png)](https://glysns.gitbook.io/java-basico/sintaxe/operadores)
 
 ### Operadores Lógicos:
  * E lógico (&&): é usado para verificar se duas expressões são verdadeiras.
@@ -39,3 +42,5 @@
 ### Operador Ternário:
  * O operador ternário em Java é representado pelo símbolo "?:" e é usado para
  * criar expressões condicionais simples e concisas.
+ ![image](https://user-images.githubusercontent.com/122856066/236618989-d62a30e2-9fc5-499d-9b5b-99c1b7c48608.png)
+
